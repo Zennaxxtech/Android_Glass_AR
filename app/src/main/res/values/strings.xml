@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArDemo</string>
+
+    <string name="directions_base_url">https://maps.googleapis.com/</string>
+
+    <string name="google_maps_key">AIzaSyB6ykj37QV02hT4DJEEo2U1oB7FKvwgMmk</string>
+
+    <string name="atm">atm</string>
+    <string name="hosp">hospital</string>
+    <string name="logding">lodging</string>
+    <string name="movie">Movie Theater</string>
+    <string name="restaurant">restaurant</string>
+    <string name="cafe">cafe</string>
+    <string name="bakery">bakery</string>
+    <string name="bus">Bus Station</string>
+    <string name="lib">library</string>
+    <string name="mall">Shopping Mall</string>
+    <string name="taxi">Taxi Stand</string>
+    <string name="pharmacy">pharmacy</string>
+    <string name="park">park</string>
+    <string name="parking">parking</string>
+
+</resources>
